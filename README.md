@@ -12,4 +12,3 @@
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=EsraKirman%22/%3E
